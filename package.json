@@ -1,0 +1,25 @@
+{
+  "name": "reading-time-calculator",
+  "version": "1.0.0",
+  "description": "Calculate reading time for Markdown files",
+  "main": "index.js",
+  "bin": {
+    "reading-time-calculator": "./bin/reading-time-calculator.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reading",
+    "time",
+    "markdown"
+  ],
+  "author": "Shibu Lijack",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^5.1.0",
+    "parse-md": "^2.0.4",
+    "reading-time": "^1.2.0"
+  }
+}
