@@ -15,6 +15,7 @@
     "markdown"
   ],
   "author": "Shibu Lijack",
+  "repository": "https://github.com/shibulijack/reading-time-calculator",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
